@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Abdelrahman-Adel610&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Abdelrahman Adel Hashim</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
